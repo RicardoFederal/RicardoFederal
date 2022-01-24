@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RicardoFederal !
-- 👀 I’m interested in research and desenvolve new kinds of softwares.
-- 🌱 I’m currently learning Java, bootstrap, a little of PHP and a little of Javascript.
-- 💞️ I’m looking to collaborate on projects that automatize routines.
-- 📫 How to reach me: send me email in rmviaro@gmail.com
+- 👋 Olá, sou o @RicardoFederal !
+- 👀 Estou a procura de me especializar na área de TI e de Desenvolvimento de Software.
+- 🌱 Estou para aprender Java, e já tenho um pouco de conhecimento em PHP, Javascript.
+- 💞️ O meu maior foco é em automatizar rotinas.
+- 📫 Email: rmviaro@gmail.com
 
 <!---
 RicardoFederal/RicardoFederal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
