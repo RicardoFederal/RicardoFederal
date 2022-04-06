@@ -1,6 +1,6 @@
 - 👋 Olá, sou o @RicardoFederal !
 - 👀 Estou a procura de me especializar na área de TI e de Desenvolvimento de Software.
-- 🌱 Estou para aprender Java, e já tenho um pouco de conhecimento em PHP, Javascript.
+- 🌱 Estou aprendendo Java, e já tenho um pouco de conhecimento em PHP e Javascript.
 - 💞️ O meu maior foco é em automatizar rotinas.
 - 📫 Email: rmviaro@gmail.com
 
